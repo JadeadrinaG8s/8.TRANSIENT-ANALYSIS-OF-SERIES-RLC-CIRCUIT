@@ -22,17 +22,17 @@ Compare the calculated values and measured values of voltage in both the cases.
 
 **CIRCUIT DIAGRAM:**
 
+<img width="1915" height="945" alt="Screenshot 2026-05-22 090710" src="https://github.com/user-attachments/assets/46039cca-b59c-4733-9453-099ed3d6b172" />
 
+<img width="1080" height="1572" alt="WhatsApp Image 2026-05-24 at 2 41 13 PM" src="https://github.com/user-attachments/assets/5bf7a272-21c2-40c1-a2b6-23708bf95517" />
 
 
 **TABULATION:**
-
-
 **Calculation:**
+<img width="1080" height="1455" alt="WhatsApp Image 2026-05-24 at 2 41 14 PM" src="https://github.com/user-attachments/assets/859b1d59-5a24-4da3-8485-ed55fb36ae21" />
 
+<img width="2160" height="961" alt="WhatsApp Image 2026-05-24 at 2 41 13 PM (1)" src="https://github.com/user-attachments/assets/12b31b58-6362-4c7a-8a48-b82a0d2be7a0" />
 
-
-**Marksplitup:**
 
 
 **RESULT:**
