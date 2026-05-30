@@ -22,12 +22,11 @@ Compare the calculated values and measured values of voltage in both the cases.
 
 **CIRCUIT DIAGRAM:**
 
-<img width="1915" height="945" alt="Screenshot 2026-05-22 090710" src="https://github.com/user-attachments/assets/46039cca-b59c-4733-9453-099ed3d6b172" />
-
-
+<img width="1600" height="751" alt="WhatsApp Image 2026-05-24 at 4 17 53 PM" src="https://github.com/user-attachments/assets/9e7aa72c-d776-468f-b3da-df8c74ffa479" />
 
 
 **TABULATION:**
+
 **Calculation:**
 
 
